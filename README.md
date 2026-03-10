@@ -40,13 +40,10 @@ The objective is to clear all bubbles while achieving the highest score possible
 <p align="center" float="left">
 <table>
   <tr>
-    <td>Home Screen</td>
-    <td>Signal Screen</td>
-   
-  </tr>
-  <tr>
-    <td><img src="screenshots/home.png" width="230"></td>
-    <td><img src="screenshots/signal.png" width="230"></td>
+    <td><img src="screenshots/ss1.png" width="230"></td>
+    <td><img src="screenshots/ss2.png" width="230"></td>
+       <td><img src="screenshots/ss3.png" width="230"></td>
+       <td><img src="screenshots/ss4.png" width="230"></td>
   </tr>
  </table>
  
