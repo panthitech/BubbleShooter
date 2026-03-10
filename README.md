@@ -1,7 +1,6 @@
 # 🎮 Bubble Shooter Android Game
 ![Android](https://img.shields.io/badge/Platform-Android-green)
 ![Java](https://img.shields.io/badge/Language-Java-blue)
-![License](https://img.shields.io/badge/License-Apache%202.0-orange)
 [![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
 
 ### Overview :
