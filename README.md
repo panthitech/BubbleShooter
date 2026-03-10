@@ -10,7 +10,7 @@ Bubble Shooter is a simple and addictive Android arcade game where players shoot
   <img src="screenshots/banner.jpg" width="100%">
 </p> 
 
--
+--
 ## 📱 Features
 
 - Classic bubble shooter gameplay
