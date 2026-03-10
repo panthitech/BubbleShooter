@@ -2,6 +2,7 @@
 ![Android](https://img.shields.io/badge/Platform-Android-green)
 ![Java](https://img.shields.io/badge/Language-Java-blue)
 ![License](https://img.shields.io/badge/License-Apache%202.0-orange)
+[![License](https://img.shields.io/badge/License-Apache%202.0-orange.svg)](LICENSE)
 
 ### Overview :
 Bubble Shooter is a simple and addictive Android arcade game where players shoot colored bubbles to match and pop them. The goal is to clear all bubbles from the screen by matching three or more bubbles of the same color.
