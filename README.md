@@ -65,6 +65,17 @@ app/
 ```
 
 
+## Final Repository Structure
+
+```
+Bubble-Shooter-Game
+│
+├── app
+├── screenshots
+├── README.md
+└── LICENSE
+```
+
 
 ## ⚙ Installation
 
